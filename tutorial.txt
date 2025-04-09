@@ -1,0 +1,24 @@
+git --version
+ls
+clear
+pwd
+cd <directory name>
+
+Configuring git
+
+git config --global user.name <my name>
+git config --global user.email <my email>
+git config --list
+
+VS code terminals
+
+git --version
+clear
+git clone <link>
+git status
+cd <directory name>
+ls
+dir -Force (show hidden files) (.git file)
+git add <file name>
+git add .
+git commit -m "message"
